@@ -1,0 +1,21 @@
+name: simple_rating
+description: Simple Rating with Icon e.g) Star Icon
+version: 0.0.1
+author: Jace Shim <jaceshim76@gmail.com>
+homepage: https://github.com/jaceshim/simple_rating
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    androidPackage: jaceshim.simple_rating
+    pluginClass: SimpleRatingPlugin

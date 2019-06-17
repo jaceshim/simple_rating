@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - simple_rating (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - simple_rating (from `.symlinks/plugins/simple_rating/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  simple_rating:
+    :path: ".symlinks/plugins/simple_rating/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  simple_rating: fb172eeca641e9319d56b3d8b4bdf9aa57ae74a6
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.5.3
